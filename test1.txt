@@ -1,6 +1,6 @@
-This is my first learning for merge ....
+This is my first learning for merge .....
 test
-test0000
+test0000..
 test1
 test7
 test0
