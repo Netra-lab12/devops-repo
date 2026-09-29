@@ -1,7 +1,8 @@
 This is my first learning for merge ....
 test
-test000
+test0000
 test1
+test7
 test0
 test11
 tst3
