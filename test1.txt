@@ -1,5 +1,8 @@
-This is my first learning for merge ...
+This is my first learning for merge ....
 test
 test00
 test1
+test0
+test11
+
 test2
